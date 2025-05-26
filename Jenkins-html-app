@@ -1,0 +1,5 @@
+<!-- index.html -->
+<html>
+  <head><title>Sample Project</title></head>
+  <body><h1>Hello Jenkins!</h1></body>
+</html>
